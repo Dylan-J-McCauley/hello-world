@@ -1,4 +1,1 @@
-This is the read me! Here is where you read, well, me!
-
-
-Physics and machine learning are fun!
+This is the read me! Physics and machine learning are fun!
